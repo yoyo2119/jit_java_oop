@@ -1,0 +1,7 @@
+run:
+entr name
+tovm
+entr id
+43
+name istovmid=43
+BUILD SUCCESSFUL (total time: 11 seconds)
